@@ -1,2 +1,9 @@
+.holder{
+            width: 100px;
+            height: 100px;
+            border: 2px solid red;
+            display: flexbox;
+            justify-items: center;
+}
 
 /* Your CSS Code here. */
